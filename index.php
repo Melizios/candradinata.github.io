@@ -24,13 +24,13 @@
 	<div>
 		<ul>
 			<li>
-				<a href="nosatu.php" class="button">Nomor 1</a>
+				<a href="https://melizios.github.io/nosatu.php" class="button">Nomor 1</a>
 			</li>
 			<li>
-				<a href="nodua.php" class="button">Nomor 2</a>
+				<a href="https://melizios.github.io/nodua.php" class="button">Nomor 2</a>
 			</li>
 			<li>
-				<a href="notiga.php" class="button">Nomor 3</a>
+				<a href="https://melizios.github.io/notiga.php" class="button">Nomor 3</a>
 			</li>
 		</ul>
 	</div>
